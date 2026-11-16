@@ -24,7 +24,7 @@ Aplikasi ini bertujuan untuk membantu pengguna mencatat dan mengingat tanggal ke
 Pengembangan aplikasi meliputi pembuatan halaman utama, daftar produk, dan halaman reminder.
 Dalam prosesnya, saya menerapkan pembuatan layout, penggunaan Activity, serta navigasi antarhalaman menggunakan Intent.
 Beberapa fitur, khususnya penyimpanan dan pengambilan data produk, masih dalam tahap proses. Jadi aplikasi yang saya buat
-belum 100% jadi.
+belum 100% jadi dan belum bisa untuk di run.
 
 # Teknologi Yang Digunakan
 
