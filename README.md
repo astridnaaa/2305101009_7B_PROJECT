@@ -3,12 +3,12 @@
 
 # Identitas Mahasiswa
 
-Nama  : Astrid Nabila
-NIM   : 2305101009
-Kelas : 7B
-Program Studi  : Teknik Informatika
-Mata Kuliah  : Pemrograman Mobile
-Tahun Akademik  : 2026
+- Nama  : Astrid Nabila
+- NIM   : 2305101009
+- Kelas : 7B
+- Program Studi  : Teknik Informatika
+- Mata Kuliah  : Pemrograman Mobile
+- Tahun Akademik  : 2026
 
 # Deskripsi
 
